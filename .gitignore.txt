@@ -1,0 +1,4 @@
+venv/
+.vscode/
+__pycache__/
+flight_model.pkl
