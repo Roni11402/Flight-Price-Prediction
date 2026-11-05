@@ -19,5 +19,6 @@ The model takes the following inputs to generate a price prediction:
    cd Flight-Price-Prediction
    pip install -r requirements.txt 
    uvicorn main:app --reload 
+   ```
 
 2. Open http://127.0.0.1:8000/docs to try the API
